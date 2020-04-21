@@ -6,25 +6,25 @@ Implement Brenham’s line drawing algorithm for all types of slope.
 # PROG2	
 Create and rotate a triangle about the origin and a fixed point.
 
-#PROG3	
+# PROG3	
 Draw a colour cube and spin it using OpenGL transformation matrices.
 
-#PROG4
+# PROG4
 Draw a color cube and allow the user to move the camera suitably to experiment with perspective viewing.
 
-#PROG5
+# PROG5
 Clip lines using Cohen-Sutherland algorithm
 
-#PROG6
+# PROG6
 To draw a simple shaded scene consisting of a tea pot on a table. Define suitably the position and properties of the light source along with the properties of the surfaces of the solid object used in the scene.
 
-#PROG7	
+# PROG7	
 Design, develop and implement recursively subdivide a tetrahedron to form 3D Sierpinski Gasket. The number of recursive steps is to be specified by the user.
 
 # PROG8	
 Develop a menu driven program to animate a flag using Bezier Curve algorithm
 
-#PROG9	
+# PROG9	
 Develop a menu driven program to fill the polygon using scan line algorithm
 
 
